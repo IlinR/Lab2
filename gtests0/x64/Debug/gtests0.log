@@ -1,0 +1,45 @@
+﻿  Test.cpp
+C:\Games\Lab2\gtests0\Test.cpp(11,5): error C2065: TVector: необъявленный идентификатор
+C:\Games\Lab2\gtests0\Test.cpp(11,16): error C2062: тип "int" не требуется
+C:\Games\Lab2\gtests0\Test.cpp(12,5): error C2065: TVector: необъявленный идентификатор
+C:\Games\Lab2\gtests0\Test.cpp(12,16): error C2062: тип "int" не требуется
+C:\Games\Lab2\gtests0\Test.cpp(13,5): error C2065: TVector: необъявленный идентификатор
+C:\Games\Lab2\gtests0\Test.cpp(13,16): error C2062: тип "int" не требуется
+C:\Games\Lab2\gtests0\Test.cpp(14,5): error C2065: v: необъявленный идентификатор
+C:\Games\Lab2\gtests0\Test.cpp(14,5): error C2065: v1: необъявленный идентификатор
+C:\Games\Lab2\gtests0\Test.cpp(14,5): error C2065: v2: необъявленный идентификатор
+C:\Games\Lab2\gtests0\Test.cpp(19,5): error C2065: TVector: необъявленный идентификатор
+C:\Games\Lab2\gtests0\Test.cpp(19,16): error C2062: тип "int" не требуется
+C:\Games\Lab2\gtests0\Test.cpp(20,5): error C2065: TVector: необъявленный идентификатор
+C:\Games\Lab2\gtests0\Test.cpp(20,16): error C2062: тип "int" не требуется
+C:\Games\Lab2\gtests0\Test.cpp(21,5): error C2065: TVector: необъявленный идентификатор
+C:\Games\Lab2\gtests0\Test.cpp(21,16): error C2062: тип "int" не требуется
+C:\Games\Lab2\gtests0\Test.cpp(22,5): error C2065: v: необъявленный идентификатор
+C:\Games\Lab2\gtests0\Test.cpp(22,5): error C2065: v1: необъявленный идентификатор
+C:\Games\Lab2\gtests0\Test.cpp(22,5): error C2065: v2: необъявленный идентификатор
+C:\Games\Lab2\gtests0\Test.cpp(27,5): error C2065: TVector: необъявленный идентификатор
+C:\Games\Lab2\gtests0\Test.cpp(27,16): error C2062: тип "int" не требуется
+C:\Games\Lab2\gtests0\Test.cpp(28,5): error C2065: TVector: необъявленный идентификатор
+C:\Games\Lab2\gtests0\Test.cpp(28,16): error C2062: тип "int" не требуется
+C:\Games\Lab2\gtests0\Test.cpp(31,9): error C2065: v: необъявленный идентификатор
+C:\Games\Lab2\gtests0\Test.cpp(32,9): error C2065: v1: необъявленный идентификатор
+C:\Games\Lab2\gtests0\Test.cpp(34,5): error C2065: v: необъявленный идентификатор
+C:\Games\Lab2\gtests0\Test.cpp(34,5): error C2065: v1: необъявленный идентификатор
+C:\Games\Lab2\gtests0\Test.cpp(34,5): error C2512: testing::AssertionResult: нет подходящего конструктора по умолчанию
+C:\Games\Lab2\gtests0\Test.cpp(34,5): message : Ни один конструктор не смог принять исходный тип, либо разрешение перегрузки конструктора неоднозначно
+C:\Games\Lab2\gtests0\Test.cpp(34,5): error C2064: результатом вычисления фрагмента не является функция, принимающая 1 аргументов
+  testmatrix.cpp
+C:\Games\Lab2\gtests0\testmatrix.cpp(9,1): error C2059: синтаксическая ошибка: }
+C:\Games\Lab2\gtests0\testmatrix.cpp(9,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
+C:\Games\Lab2\gtests0\testmatrix.cpp(11,1): error C2059: синтаксическая ошибка: public
+C:\Games\Lab2\gtests0\testmatrix.cpp(11,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Games\Lab2\gtests0\testmatrix.cpp(11,1): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Games\Lab2\gtests0\testmatrix.cpp(11,1): error C2653: TMatrix_can_subtract_matrices_with_equal_size_Test: не является именем класса или пространства имен
+C:\Games\Lab2\gtests0\testmatrix.cpp(11,1): error C2065: TMatrix_can_subtract_matrices_with_equal_size_Test: необъявленный идентификатор
+C:\Games\Lab2\gtests0\testmatrix.cpp(11,1): error C2923: testing::internal::TestFactoryImpl: "TMatrix_can_subtract_matrices_with_equal_size_Test" не является допустимым аргументом типа шаблон для параметра "TestClass"
+C:\Games\Lab2\gtests0\testmatrix.cpp(11,1): error C2512: testing::internal::TestFactoryImpl: нет подходящего конструктора по умолчанию
+C:\Games\Lab2\gtests0\testmatrix.cpp(11,1): error C2660: testing::internal::MakeAndRegisterTestInfo: функция не принимает 8 аргументов
+C:\Games\Lab2\Build\packages\Microsoft.googletest.v140.windesktop.msvcstl.static.rt-dyn.1.8.1.3\build\native\include\gtest\internal\gtest-internal.h(518,22): message : см. объявление "testing::internal::MakeAndRegisterTestInfo"
+C:\Games\Lab2\gtests0\testmatrix.cpp(11,1): error C2789: "test_info_": требуется инициализация объекта типа класса, квалифицированного как const
+C:\Games\Lab2\gtests0\testmatrix.cpp(11): message : см. объявление "test_info_"
+  Создание кода...
