@@ -6,10 +6,10 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="C:\Games\Lab2\source\utmatr4.h">
+    <ClInclude Include="C:\Games\Lab2\source\matrix.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Games\Lab2\source\matrix.h">
+    <ClInclude Include="..\source\utmatrix.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

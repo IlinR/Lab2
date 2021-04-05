@@ -1,3 +1,2 @@
-﻿  Building Custom Rule C:/Games/Lab2/source/CMakeLists.txt
-  main.cpp
-  lab2.vcxproj -> C:\Games\Lab2\Build\Debug\lab2.exe
+﻿  main.cpp
+C:\Games\Lab2\source\main.cpp(3,10): fatal error C1083: Не удается открыть файл включение: utmatr4.h: No such file or directory,

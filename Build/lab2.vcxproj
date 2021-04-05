@@ -305,7 +305,7 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="C:\Games\Lab2\source\main.cpp" />
-    <ClInclude Include="C:\Games\Lab2\source\utmatr4.h" />
+    <ClInclude Include="..\source\utmatrix.h" />
     <ClInclude Include="C:\Games\Lab2\source\matrix.h" />
   </ItemGroup>
   <ItemGroup>
